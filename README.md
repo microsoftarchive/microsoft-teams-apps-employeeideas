@@ -8,7 +8,7 @@ description: Allows employees to nominate and vote on ideas as a team
 urlFragment: microsoft-teams-app-employeeideas
 ---
 
-# Inspection App Template
+# Employee Ideas App Template
 
 | [Documentation](https://github.com/OfficeDev/microsoft-teams-apps-employeeideas/wiki/Documentation) | [Deployment guide](https://github.com/OfficeDev/microsoft-teams-apps-employeeideas/wiki/Deployment-Guide) | [Architecture](https://github.com/OfficeDev/microsoft-teams-apps-employeeideas/wiki/Architecture) |
 | ---- | ---- | ---- |
