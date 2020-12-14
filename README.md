@@ -1,14 +1,33 @@
-# Project
+---
+page_type: sample
+languages:
+- PowerApps
+products:
+- office-teams
+description: Allows employees to nominate and vote on ideas as a team
+urlFragment: microsoft-teams-app-employeeideas
+---
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+# Inspection App Template
 
-As the maintainer of this project, please make a few updates:
+| [Documentation](https://github.com/OfficeDev/microsoft-teams-apps-employeeideas/wiki/Documentation) | [Deployment guide](https://github.com/OfficeDev/microsoft-teams-apps-employeeideas/wiki/Deployment-Guide) | [Architecture](https://github.com/OfficeDev/microsoft-teams-apps-employeeideas/wiki/Architecture) |
+| ---- | ---- | ---- |
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+This can be viewed as the PowerApps version of the Azure-based [Great Ideas](https://github.com/OfficeDev/microsoft-teams-apps-greatideas).
+
+Employee ideas app is used by the Teams users to perform the following activities:
+
+Set up and configure an idea campaign (a category for grouping ideas around common themes).
+Configure a standard submission form that employees need to submit for each idea.
+Review idea campaigns, and manage the list of campaigns and ideas.
+Edit and delete campaigns.
+Review leaderboards of ideas.
+Vote for and share prioritized ideas.
+Submit ideas for a campaign.
+View other team members' ideas.
+Vote on the most-liked ideas.
+Review how their own idea is performing compared to others within a campaign.
+
 
 ## Contributing
 
