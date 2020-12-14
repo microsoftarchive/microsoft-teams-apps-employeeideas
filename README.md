@@ -28,6 +28,7 @@ View other team members' ideas.
 Vote on the most-liked ideas.
 Review how their own idea is performing compared to others within a campaign.
 
+For more information, please visit: https://docs.microsoft.com/en-us/powerapps/teams/employee-ideas
 
 ## Contributing
 
